@@ -19,8 +19,8 @@ Okay so first, you need a few things on your machine: Python 3.9+, Xcode 15, and
 1. Get the code:
 Just clone the repo like you normally would.
 
-git clone <your-repository-url>
-cd <your-repository-name>
+git clone <https://github.com/aliakkaya1/RAGChatbotApp>
+cd <RAGChatbotApp>
 
 2. Backend Setup:
 
