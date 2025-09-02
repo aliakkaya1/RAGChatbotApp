@@ -63,7 +63,7 @@ struct ContentView: View {
                             .foregroundColor(Color("accent"))
                     }
                     .padding(.horizontal)
-                    // --- FIX: Add this line to prioritize the button's space ---
+                    
                     .layoutPriority(1)
                 }
                 .padding(.bottom)
